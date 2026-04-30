@@ -31,3 +31,7 @@ To understand how EV adoption has evolved in major economies and compare growth 
 
 ## Output
 The analysis includes line charts showing EV market share trends over time.
+
+## Results
+
+![EV Trend](images/ev_trend.png)## 
